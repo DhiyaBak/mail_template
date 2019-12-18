@@ -1,1 +1,2 @@
-# mail_template
+# Email Marketing
+ HTML Email Templates
